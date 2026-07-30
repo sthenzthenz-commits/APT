@@ -21,25 +21,14 @@ inga un Firebase details paste pannanum.
 
 const firebaseConfig = {
 
-  apiKey: "YOUR_API_KEY",
-
-  authDomain:
-    "YOUR_PROJECT.firebaseapp.com",
-
-  databaseURL:
-    "https://YOUR_PROJECT-default-rtdb.firebaseio.com",
-
-  projectId:
-    "YOUR_PROJECT",
-
-  storageBucket:
-    "YOUR_PROJECT.appspot.com",
-
-  messagingSenderId:
-    "YOUR_SENDER_ID",
-
-  appId:
-    "YOUR_APP_ID"
+  apiKey: "AIzaSyBkInnXjADu4B2uqika7Ujm3493GduMUv0",
+    authDomain: "aaru-auto-pump-technologies.firebaseapp.com",
+    databaseURL: "https://aaru-auto-pump-technologies-default-rtdb.firebaseio.com",
+    projectId: "aaru-auto-pump-technologies",
+    storageBucket: "aaru-auto-pump-technologies.firebasestorage.app",
+    messagingSenderId: "337562030454",
+    appId: "1:337562030454:web:10a3570055367d2dd66a57",
+    measurementId: "G-TS1ZF2ZKVV
 
 };
 
